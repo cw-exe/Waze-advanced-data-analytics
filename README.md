@@ -13,7 +13,7 @@ Course 1 introduces the data professional role and the **PACE workflow (Plan, An
 | `course3-power-of-statistics/` | Course 3 | Descriptive statistics, probability distributions, hypothesis testing (Waze) |
 | `course4-regression-analysis/` | Course 4 | Linear & logistic regression, model evaluation (Waze) |
 | `course5-machine-learning/` | Course 5 | Supervised & unsupervised ML, feature engineering, model tuning (Waze) |
-| `course6-capstone/` | Course 6 | End-to-end capstone: full analytics pipeline from EDA to ML model, business recommendation (Waze) |
+| `course6-capstone/` | Course 6 | End-to-end capstone: full analytics pipeline from EDA to ML model, business recommendation (Salifort) |
 
 ## Tools & Skills
 
